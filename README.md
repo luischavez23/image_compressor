@@ -1,4 +1,4 @@
-Image Optimizer with PHP and Intervention Image library
+Image Optimizer with PHP and Intervention Image Library
 Project Description:
 This project, developed in PHP, leverages the powerful Intervention Image library to create an efficient and user-friendly image optimization tool. Designed for users and developers needing to process and optimize images quickly without sacrificing visual quality.
 
