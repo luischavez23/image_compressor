@@ -1,0 +1,16 @@
+{
+    "name": "lenovo/img_compressor",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\ImgCompressor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Pablo Chávez"
+        }
+    ],
+    "require": {
+        "intervention/image": "^3.5"
+    }
+}
